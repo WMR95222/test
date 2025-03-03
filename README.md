@@ -1,2 +1,2 @@
 # test
-test
+git clone true
